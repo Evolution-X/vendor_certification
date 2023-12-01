@@ -2,13 +2,13 @@
 <resources>
     <!-- Build properties from a GMS certified device -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
-        <item>NVIDIA</item> <!-- Build.BRAND -->
-        <item>NVIDIA</item> <!-- Build.MANUFACTURER -->
+        <item>asus</item> <!-- Build.BRAND -->
+        <item>asus</item> <!-- Build.MANUFACTURER -->
         <item></item> <!-- Build.ID -->
-        <item>foster</item> <!-- Build.DEVICE -->
-        <item>foster_e</item> <!-- Build.PRODUCT -->
-        <item>SHIELD Android TV</item> <!-- Build.MODEL -->
-        <item>NVIDIA/foster_e/foster:7.0/NRD90M/2427173_1038.2788:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>ASUS_Z012D</item> <!-- Build.DEVICE -->
+        <item>WW_Phone</item> <!-- Build.PRODUCT -->
+        <item>ASUS_Z012D</item> <!-- Build.MODEL -->
+        <item>asus/WW_Phone/ASUS_Z012D:7.0/NRD90M/14.2015.1701.8-20170222:user/release-keys</item> <!-- Build.FINGERPRINT -->
         <item></item> <!-- Build.TYPE -->
         <item></item> <!-- Build.TAGS -->
     </string-array>
