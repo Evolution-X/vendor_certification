@@ -1,6 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.certification.overlay">
-    <overlay android:isStatic="true" android:priority="0" android:targetName="CertificationOverlay" android:targetPackage="android"/>
-
-    <application android:hasCode="false" android:label="CertificationOverlay"/>
-</manifest>
