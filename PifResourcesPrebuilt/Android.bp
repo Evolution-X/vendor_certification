@@ -1,9 +1,0 @@
-android_app_import {
-	name: "PifResourcesPrebuilt",
-	apk: "PifResourcesPrebuilt.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	system_ext_specific: true,
-}

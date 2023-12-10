@@ -1,3 +1,3 @@
-# RRO Overlays
+# PifPrebuilt
 PRODUCT_PACKAGES += \
-    PifResourcesPrebuilt
+    PifPrebuilt
