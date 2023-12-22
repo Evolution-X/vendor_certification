@@ -1,7 +1,7 @@
 android_app_import {
 	name: "PifPrebuilt",
 	apk: "PifPrebuilt.apk",
-	certificate: "platform",
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
